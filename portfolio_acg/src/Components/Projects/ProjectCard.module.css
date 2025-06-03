@@ -1,0 +1,170 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  padding: 24px 28px;
+  max-width: 380px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.container:hover {
+  transform: scale(1.05);
+  box-shadow: 0 14px 22px rgba(0, 0, 0, 0.3);
+}
+
+.image {
+  margin-bottom: 22px;
+  width: 100%;
+  max-width: 350px;
+  border-radius: 12px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--color-text);
+  text-align: center;
+}
+
+.description {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-text);
+}
+
+.skills {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  list-style: none;
+}
+
+.skill {
+   font-size: 18px;
+  font-weight: 500;
+  border-radius: 30px;
+  background: var(--color-bg);
+  padding: 6px 16px;
+  transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.skill:hover {
+  background: var(--color-secondary);
+  transform: scale(1.08);
+}
+
+.links {
+  width: 100%;
+  margin-top: 28px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 22px;
+  font-weight: 600;
+  border-radius: 30px;
+  background: var(--color-primary);
+  padding: 10px 24px;
+  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.link:hover {
+  background: var(--color-secondary);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.3);
+}
+
+.projectCard {
+  width: 48%;
+  max-width: 580px;
+  min-width: 420px;
+  padding: 30px;
+  background-color: var(--color-primary);
+  border-radius: 16px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.projectCard:hover {
+  transform: scale(1.05);
+}
+.projectImage {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.projectImage:hover {
+  transform: scale(1.03);
+}
+
+.projectTitle {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 12px; 
+  color: var(--color-text);
+}
+
+.projectDescription {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-align: center;
+  color: var(--color-text);
+}
+
+.projectSkills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px; 
+}
+
+.skill {
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 30px;
+  background: var(--color-bg);
+  padding: 6px 16px;
+  transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.skill:hover {
+  background: var(--color-secondary);
+  transform: scale(1.08);
+}
+
+.projectLink {
+  display: inline-block;
+  margin-top: 24px; 
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 30px;
+  background: var(--color-primary);
+  padding: 10px 20px;
+  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.projectLink:hover {
+  background: var(--color-secondary);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}

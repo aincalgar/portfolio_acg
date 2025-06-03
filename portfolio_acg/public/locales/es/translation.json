@@ -1,0 +1,62 @@
+{
+  "about_title": "Sobre mí",
+  "about_image_alt": "Ainhoa trabajando con su laptop",
+  "frontend_title": "Desarrolladora Web",
+  "frontend_description": "Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como React, JavaScript, HTML, CSS y Bootstrap.",
+  "backend_title": "Desarrollo Backend",
+  "backend_description": "He trabajado con tecnologías como SpringBoot, Java y Python, desarrollando sistemas eficientes y optimizados.",
+  "wordpress_title": "Gestión en WordPress",
+  "wordpress_description": "Actualmente, estoy realizando prácticas en una empresa donde trabajo con WordPress, personalizando temas y optimizando la estructura web.",
+  "frontend_icon_alt": "Ícono de desarrollo frontend",
+  "backend_icon_alt": "Ícono de desarrollo backend",
+  "wordpress_icon_alt": "Ícono de WordPress",
+  "contact_title": "Contacto",
+  "contact_description": "¡No dudes en ponerte en contacto!",
+  "email_icon_alt": "Ícono de correo electrónico",
+  "linkedin_icon_alt": "Ícono de LinkedIn",
+  "github_icon_alt": "Ícono de GitHub",
+  "experience_title": "Experiencia",
+  "history": {
+    "web_developer_intern": "Desarrolladora Web (en Prácticas)",
+    "web_dev_student": "Estudiante de Desarrollo de Aplicaciones Web",
+    "finance_student": "Estudiante de Administración y Finanzas"
+  },
+  "experience_details": {
+    "wordpress_development": "Desarrollo web con WordPress y personalización de temas",
+    "site_structure_improvements": "Implementación de mejoras en la estructura y funcionalidad de sitios web",
+    "learning_react_springboot": "Aprendizaje de tecnologías como React, SpringBoot, Java, JavaScript y Python",
+    "developing_web_apps": "Desarrollo de aplicaciones web y optimización de interfaces de usuario",
+    "working_with_databases": "Trabajo con bases de datos como MySQL y MongoDB",
+    "administrative_management": "Gestión de procesos administrativos y financieros",
+    "accounting_tools_usage": "Uso de herramientas contables como Contasol y Factusol",
+    "organizational_skills_development": "Desarrollo de habilidades organizativas y resolución de problemas"
+  },
+  "dates": {
+    "current": "Actualidad",
+    "present": "Presente",
+    "2022": "2022"
+  },
+  "hero_title": "Hola, soy Ainhoa",
+  "hero_description": "Soy una desarrolladora web con experiencia en React, SpringBoot y otras tecnologías. Siempre busco mejorar mis habilidades y aprender más.",
+  "hero_contact": "Contáctame",
+  "hero_image_alt": "Imagen de Ainhoa trabajando",
+  "navbar_title": "Portafolio",
+  "menu_icon_alt": "Botón de menú",
+  "navbar_about": "Sobre mí",
+  "navbar_experience": "Experiencia",
+  "navbar_projects": "Proyectos",
+  "navbar_contact": "Contacto",
+  "projects_title": "Proyectos",
+  "projects_demo": "Demo",
+  "projects_source": "Código fuente",
+  "projects": {
+    "user_address_manager": {
+      "title": "Gestor de Usuarios y Direcciones",
+      "description": "Aplicación web para gestionar usuarios y direcciones. Permite ver listado o detalle, crear, editar y eliminar usuarios y direcciones."
+    },
+    "wordpress_blog": {
+      "title": "Blog en WordPress",
+      "description": "Sitio web personalizado en WordPress con temas optimizados."
+    }
+  }
+}

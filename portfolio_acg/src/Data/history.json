@@ -1,0 +1,37 @@
+[
+  {
+    "role": "web_developer_intern",
+    "organisation": "LaVallWeb",
+    "startDate": "2025",
+    "endDate": "present",
+    "experiences": [
+      "wordpress_development",
+      "site_structure_improvements"
+    ],
+    "imageSrc": "/assets/empresa.png"
+  },
+  {
+    "role": "web_dev_student",
+    "organisation": "IES Hermanos Amorós, Villena",
+    "startDate": "2024",
+    "endDate": "current",
+    "experiences": [
+      "learning_react_springboot",
+      "developing_web_apps",
+      "working_with_databases"
+    ],
+    "imageSrc": "/assets/educacion.jpeg"
+  },
+  {
+    "role": "finance_student",
+    "organisation": "IES Serpis, Valencia",
+    "startDate": "2020",
+    "endDate": "2022",
+    "experiences": [
+      "administrative_management",
+      "accounting_tools_usage",
+      "organizational_skills_development"
+    ],
+    "imageSrc": "/assets/administracion.jpeg"
+  }
+]

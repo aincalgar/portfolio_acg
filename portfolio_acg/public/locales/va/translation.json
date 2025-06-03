@@ -1,0 +1,61 @@
+{
+  "about_title": "Sobre mi",
+  "about_image_alt": "Ainhoa",
+  "frontend_title": "Desenvolupadora Web",
+  "frontend_description": "Tinc experiència en el desenrotllament d'aplicacions web utilitzant tecnologies com React, JavaScript, HTML, CSS y Bootstrap.",
+  "backend_title": "Desenvolupament Backend",
+  "backend_description": "He treballat amb tecnologies com SpringBoot, Java y Python, desenvolupant sistemes eficients i optimitzats.",
+  "wordpress_title": "Gestió en WordPress",
+  "wordpress_description": "Actualment, estic realitzant pràctiques en una empresa on treballe amb WordPress, personalitzant temes i optimitzant l’estructura web.",
+  "frontend_icon_alt": "Icona de desenvolupament frontend",
+  "backend_icon_alt": "Icona de desenvolupament backend",
+  "wordpress_icon_alt": "Icona de WordPress",
+  "contact_title": "Contacte",
+  "contact_description": "No dubtes a posar-te en contacte!",
+  "email_icon_alt": "Email icon",
+  "github_icon_alt": "GitHub icon",
+  "experience_title": "Experiència",
+
+  "history": {
+    "web_developer_intern": "Desenvolupadora Web(pràctiques)",
+    "web_dev_student": "Estudiant de Desenvolupament d'Aplicacions Web",
+    "finance_student": "Estudiant de Administració i Finances"
+  },
+  "experience_details": {
+    "wordpress_development": "Desenvolupament web amb WordPress i personalització del temes",
+    "site_structure_improvements": "Implementació de millores en la estructura i en la funcionalitat de les pàgines web",
+    "learning_react_springboot": "Tecnologies de aprenentatje com React, SpringBoot, Java, JavaScript i Python",
+    "developing_web_apps": "Desenvolupament d'aplicacions web i optimització de interfaces d'usuari",
+    "working_with_databases": "Treball amb bases de dades com MySQL i MongoDB",
+    "administrative_management": "Gestió de processos administratius i financers",
+    "accounting_tools_usage": "Ús de ferramentes comptables com Contasol i Factusol",
+    "organizational_skills_development": "Desenrotllament d'habilitats organitzatives i resolució de problemes"
+  },
+  "dates": {
+    "current": "Actualitat",
+    "present": "Present",
+    "2022": "2022"
+  },
+  "hero_title": "Hola, soc Ainhoa",
+  "hero_description": "Soc una desenvolupadora web amb experiència amb React, SpringBoot i altres tecnologies. Sempre busque millorar les meues habilitats i aprendre més.",
+  "hero_contact": "Contactam",
+  "hero_image_alt": "Ainhoa treballant",
+  "navbar_title": "Portafolio",
+  "menu_icon_alt": "Botó de menú",
+  "navbar_about": "Sobre mi",
+  "navbar_experience": "Experiència",
+  "navbar_projects": "Projectes",
+  "navbar_contact": "Contacte",
+  "projects": {
+    "CRUD usuarios y direcciones": {
+      "title": "CRUD usuaris i adreces",
+      "description": "Aplicació web per a gestionar usuaris i adreces.",
+      "image_alt": "Captura de pantalla del CRUD"
+    },
+    "Blog en WordPress": {
+      "title": "Blog en WordPress",
+      "description": "Lloc web personalitzat en WordPress amb temes optimitzats.",
+      "image_alt": "Captura de pantalla del Blog en WordPress"
+    }
+  }
+}

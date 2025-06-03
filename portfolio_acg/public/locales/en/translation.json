@@ -1,0 +1,61 @@
+{
+  "about_title": "About me",
+  "about_image_alt": "Ainhoa",
+  "frontend_title": "Web Developer",
+  "frontend_description": "I have experience developing web applications using technologies such as React, JavaScript, HTML, CSS and Bootstrap.",
+  "backend_title": "Backend Development",
+  "backend_description": "I have worked with technologies such as SpringBoot, Java and Python, developing efficient and optimized systems.",
+  "wordpress_title": "WordPress Management",
+  "wordpress_description": "I'm currently interning at a company where I work with WordPress, customizing themes and optimizing website structure.",
+  "frontend_icon_alt": "Frontend development icon",
+  "backend_icon_alt": "Backend development icon",
+  "wordpress_icon_alt": "WordPress icon",
+  "contact_title": "Contact",
+  "contact_description": "Don't hesitate to get in touch!",
+  "email_icon_alt": "Email icon",
+  "github_icon_alt": "GitHub icon",
+  "experience_title": "Experience",
+  "history": {
+    "web_developer_intern": "Web Developer (Intern)",
+    "web_dev_student": "Web Development Student",
+    "finance_student": "Finance and Administration Student"
+  },
+  "experience_details": {
+    "wordpress_development": "Working with WordPress and customizing themes",
+    "site_structure_improvements": "Improving website structure and functionality",
+    "learning_react_springboot": "Learning technologies like React, SpringBoot, Java, JavaScript, and Python",
+    "developing_web_apps": "Building web applications and optimizing user interfaces",
+    "working_with_databases": "Working with databases like MySQL and MongoDB",
+    "administrative_management": "Managing administrative and financial processes",
+    "accounting_tools_usage": "Using accounting tools such as Contasol and Factusol",
+    "organizational_skills_development": "Developing organizational and problem-solving skills"
+  },
+  "dates": {
+    "current": "Current",
+    "present": "Present",
+    "2022": "2022"
+  },
+  "hero_title": "Hi, I'm Ainhoa",
+  "hero_description": "I'm a web developer with experience in React, SpringBoot, and other technologies. I'm always looking to improve my skills and learn more.",
+  "hero_contact": "Contact Me",
+  "hero_image_alt": "Ainhoa working",
+  "navbar_title": "Portfolio",
+  "menu_icon_alt": "Menu button",
+  "navbar_about": "About",
+  "navbar_experience": "Experience",
+  "navbar_projects": "Projects",
+  "navbar_contact": "Contact",
+  "projects_title": "Projects",
+  "projects_demo": "Demo",
+  "projects_source": "Source Code",
+  "projects": {
+    "user_address_manager": {
+      "title": "User and Address Manager",
+      "description": "Web application to efficiently manage users and addresses."
+    },
+    "wordpress_blog": {
+      "title": "WordPress Blog",
+      "description": "Custom WordPress site with optimized themes."
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "about_title": "Su di me",
+  "about_image_alt": "Ainhoa",
+  "frontend_title": "Sviluppatrice Web",
+  "frontend_description": "Ho esperienza nello sviluppo di applicazioni web utilizzando tecnologie come React, JavaScript, HTML, CSS e Bootstrap.",
+  "backend_title": "Sviluppo Backend",
+  "backend_description": "Ho lavorato con tecnologie come SpringBoot, Java e Python, sviluppando sistemi efficienti e ottimizzati.",
+  "wordpress_title": "Gestione WordPress",
+  "wordpress_description": "Attualmente sto svolgendo uno stage presso un'azienda dove mi occupo di WordPress, personalizzando i temi e ottimizzando la struttura dei siti web.",
+  "frontend_icon_alt": "Icona di sviluppo frontend",
+  "backend_icon_alt": "Icona di sviluppo backend",
+  "wordpress_icon_alt": "Icona WordPress",
+  "contact_title": "Contatto",
+  "contact_description": "Non esitate a contattarmi!",
+  "email_icon_alt": "Email icon",
+  "github_icon_alt": "GitHub icon",
+
+  "experience_title": "Esperienza",
+  "history": {
+    "web_developer_intern": "Sviluppatrice Web(Stage)",
+    "web_dev_student": "Studente di Sviluppo di Applicazioni Web",
+    "finance_student": "Studente di Amministrazione e Finanze"
+  },
+  "experience_details": {
+    "wordpress_development": "Sviluppo web con WordPress e personalizzazione dele tematiche",
+    "site_structure_improvements": "Implementazione di miglioramenti nella struttura e nella funzionalità dei siti web",
+    "learning_react_springboot": "Tecnologie di apprendimento come React, SpringBoot, Java, JavaScript e Python",
+    "developing_web_apps": "Desarrollo de aplicaciones web y optimización de interfaces de usuario",
+    "working_with_databases": "Sviluppo di applicazioni web e ottimizzazione dell'interfaccia utente",
+    "administrative_management": "Gestione dei processi amministrativi e finanziari",
+    "accounting_tools_usage": "Utilizzo di strumenti contabili come Contasol e Factusol",
+    "organizational_skills_development": "Sviluppo delle capacità organizzative e di problem solving"
+  },
+  "dates": {
+    "current": "Attualità",
+    "present": "Presente",
+    "2022": "2022"
+  },
+  "hero_title": "Ciao, sono Ainhoa",
+  "hero_description": "Sono una sviluppatrice web con esperienza in React, SpringBoot e altre tecnologie. Cerco sempre di migliorare le mie abilità e imparare di più.",
+  "hero_contact": "Contattami",
+  "hero_image_alt": "Ainhoa lavorando",
+  "navbar_title": "Portfolio",
+  "menu_icon_alt": "Bottone menú",
+  "navbar_about": "Su di me",
+  "navbar_experience": "Esperienza",
+  "navbar_projects": "Progetti",
+  "navbar_contact": "Contatto",
+  "projects": {
+    "user_address_manager": {
+      "title": "Gestor de Usuarios y Direcciones",
+      "description": "Aplicación web para gestionar usuarios y direcciones de forma eficiente."
+    },
+    "wordpress_blog": {
+      "title": "Blog en WordPress",
+      "description": "Sitio web personalizado en WordPress con temas optimizados."
+    }
+  }
+}

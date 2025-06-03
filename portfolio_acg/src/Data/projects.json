@@ -1,0 +1,17 @@
+[
+  {
+    "id": "user_address_manager", 
+    "imageSrc": "CRUD.JPG",
+    "title": "Gestor de Usuarios y Direcciones",
+    "description": "Aplicación web para gestionar usuarios y direcciones. Permite ver listado o detalle, crear, editar y eliminar tanto usuarios como direcciones",
+    "skills": ["React", "JavaScript", "Bootstrap"],
+    "source": "https://github.com/aincalgar/act_fullstack_frontend_acg"
+  },
+  {
+    "id": "wordpress_blog",  
+    "imageSrc": "capturaWordpress.JPG",
+    "title": "Blog en WordPress",
+    "description": "Sitio web personalizado en WordPress.",
+    "skills": ["WordPress", "Elementor"]
+  }
+]
