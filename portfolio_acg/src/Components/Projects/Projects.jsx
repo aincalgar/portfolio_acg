@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import styles from "./Projects.module.css";
-import projectsData from "../../data/projects.json";
+import projectsData from "../../Data/projects.json";
 import { ProjectCard } from "./ProjectCard";
 
 export const Projects = () => {
