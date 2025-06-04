@@ -1,14 +1,34 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
+  width: 100%;
+  position: fixed;
   display: flex;
-  align-items: center;
+  align-items: center; /* Asegura que todo esté en la misma línea */
+  gap: 10px; /* Espaciado entre los elementos */
   padding: 10px 20px;
   justify-content: space-between;
   padding-top: 61px;
-  z-index: 2;
+  z-index: 1000;
   margin: 0 10%;
+  background-color: var(--color-dark);
+}
+
+button {
+  transition: 0.3s ease-in-out;
+}
+
+.themeButton {
+  font-size: 28px; /* Aumenta el tamaño */
+  border: none; /* Elimina el borde */
+  background: none; /* Quita cualquier fondo */
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.themeButton:hover {
+  transform: scale(1.2); /* Efecto de aumento al pasar el mouse */
 }
 
 .title {

@@ -9,3 +9,15 @@
   /* fuentes */
   --font-roboto: "Roboto";
 }
+
+/* Modo claro */
+body.light {
+  --bg-color: var(--bg-color-light);
+  --text-color: var(--text-color-light);
+}
+
+/* Modo oscuro */
+body.dark {
+  --bg-color: var(--bg-color-dark);
+  --text-color: var(--text-color-dark);
+}

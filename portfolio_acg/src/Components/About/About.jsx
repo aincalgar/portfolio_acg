@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
-export const About = () => {
+export const About = ({ theme }) => {
   const { t } = useTranslation();
 
   return (

@@ -40,6 +40,14 @@
   margin-bottom: 52px;
 }
 
+.description.dark {
+  color: #71a5de;
+}
+
+.description.light {
+  color: var(--color-text);
+}
+
 .contactBtn {
   text-decoration: none;
   background-color: var(--color-primary);

@@ -1,9 +1,8 @@
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
 import styles from "./Navbar.module.css";
-import { getImageUrl } from "../../utils";
 
-export const Navbar = () => {
+export const Navbar = ({ theme, toggleTheme }) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const { t, i18n } = useTranslation();
 
@@ -44,6 +43,10 @@ export const Navbar = () => {
             <img src="/banderas/it.png" alt="Italiano" />
           </button>
         </div>
+
+        <button className={styles.themeButton} onClick={toggleTheme}>
+          {theme === "light" ? "🌙" : "☀️"}
+        </button>
       </div>
     </nav>
   )
