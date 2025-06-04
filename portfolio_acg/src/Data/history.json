@@ -8,7 +8,7 @@
       "wordpress_development",
       "site_structure_improvements"
     ],
-    "imageSrc": "/assets/empresa.png"
+    "imageSrc": "empresa.png"
   },
   {
     "role": "web_dev_student",
@@ -20,7 +20,7 @@
       "developing_web_apps",
       "working_with_databases"
     ],
-    "imageSrc": "/assets/educacion.jpeg"
+    "imageSrc": "educacion.jpeg"
   },
   {
     "role": "finance_student",
@@ -32,6 +32,6 @@
       "accounting_tools_usage",
       "organizational_skills_development"
     ],
-    "imageSrc": "/assets/administracion.jpeg"
+    "imageSrc": "administracion.jpeg"
   }
 ]

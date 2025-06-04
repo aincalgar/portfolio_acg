@@ -2,7 +2,6 @@ import React from "react";
 import { useTranslation } from 'react-i18next';
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
-import heroImage from "/assets/heroImage.png"
 
 export const Hero = () => {
   const { t, i18n } = useTranslation();
@@ -14,12 +13,12 @@ export const Hero = () => {
         <p className={styles.description}>{t('hero_description')}</p>
       </div>
       <img
-        src={heroImage}
+        src="heroImage.png"
         alt={t('hero_image_alt')}
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
-  );
-};
+  )
+}

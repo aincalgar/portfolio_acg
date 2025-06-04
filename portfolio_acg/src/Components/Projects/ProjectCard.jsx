@@ -1,7 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import styles from "./ProjectCard.module.css";
-import { getImageUrl } from "../../utils";
 
 export const ProjectCard = ({ project }) => {
   const { t } = useTranslation();
@@ -10,7 +9,7 @@ export const ProjectCard = ({ project }) => {
     <div className={styles.projectCard}>
       {project?.imageSrc && (
         <img 
-          src={getImageUrl(project.imageSrc)} 
+          src={`/${project.imageSrc}`} 
           alt={t(`projects.${project?.id}.image_alt`)} 
           className={styles.projectImage} 
         />

@@ -14,11 +14,11 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src="/assets/emailIcon.png" alt={t('email_icon_alt')}/>
+          <img src="emailIcon.png" alt={t('email_icon_alt')}/>
           <a href="mailto:ainhoacalabuiggarcia@gmail.com">ainhoacalabuiggarcia@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <img src="/assets/github.png" alt={t('github_icon_alt')}/>
+          <img src="github.png" alt={t('github_icon_alt')}/>
           <a href="https://github.com/aincalgar">github.com/aincalgar</a>
         </li>
       </ul>

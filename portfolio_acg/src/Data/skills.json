@@ -1,50 +1,50 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "/assets/html.png"
+    "imageSrc": "html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "/assets/css.png"
+    "imageSrc": "css.png"
   },
   {
     "title": "React",
-    "imageSrc": "/assets/react.png"
+    "imageSrc": "react.png"
   },
   {
     "title": "SpringBoot",
-    "imageSrc": "/assets/springboot.png"
+    "imageSrc": "springboot.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "/assets/javascript.png"
+    "imageSrc": "javascript.png"
   },
   {
     "title": "Python",
-    "imageSrc": "/assets/python.png"
+    "imageSrc": "python.png"
   },
   {
     "title": "Java",
-    "imageSrc": "/assets/java.png"
+    "imageSrc": "java.png"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "/assets/mongodb.png"
+    "imageSrc": "mongodb.png"
   },
   {
     "title": "MySQL",
-    "imageSrc": "/assets/mysql.png"
+    "imageSrc": "mysql.png"
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "/assets/bootstrap.svg"
+    "imageSrc": "bootstrap.svg"
   },
   {
     "title": "WordPress",
-    "imageSrc": "/assets/wordpress.png"
+    "imageSrc": "wordpress.png"
   },
   {
     "title": "GitHub",
-    "imageSrc": "/assets/github.png"
+    "imageSrc": "github.png"
   }
 ]
